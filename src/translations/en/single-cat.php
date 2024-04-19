@@ -1,6 +1,5 @@
 <?php
 
 return [
-    'Single Category' => 'Single Category',
-    'Show blank select option' => 'Show blank select option',
+  'Single Category' => 'Single Category',
 ];
